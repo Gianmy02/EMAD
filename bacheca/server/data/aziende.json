@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "ragioneSociale": "TechCorp Solutions",
+    "email": "info@techcorp.it",
+    "settore": "Informatica & Cloud",
+    "passwordHash": "16600c7bbbdf9761639c1633d929e46f2e190deea312a65728379b7784a2f11d",
+    "salt": "frE0xRxXJvIt5kQHd6_KBg==",
+    "createdAt": "2026-11-01T08:00:00Z"
+  },
+  {
+    "id": 2,
+    "ragioneSociale": "prova",
+    "email": "prova@gmail.com",
+    "settore": "informatica",
+    "passwordHash": "65e674fe84d0cb1f3fd5335341cb562e591b526449bd36f54915aa49fd6361e0",
+    "salt": "rSzLDwL-cf1EU4sQubli-g==",
+    "createdAt": "2026-11-23T23:42:13Z"
+  }
+]

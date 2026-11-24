@@ -1,0 +1,15 @@
+[
+  {
+    "id": 1,
+    "annuncioId": 3,
+    "annuncioTitolo": "flutter developer mobile",
+    "nome": "Gianmarco",
+    "cognome": "Riviello",
+    "email": "prova@gmail.com",
+    "messaggio": "spero di avere il lavoro",
+    "cvFilename": "cv_1795477844976_602875.pdf",
+    "cvOriginalName": "CV-Riviello-Gianmarco.pdf",
+    "cvUrl": "/api/uploads/cv_1795477844976_602875.pdf",
+    "createdAt": "2026-11-23T23:50:44Z"
+  }
+]

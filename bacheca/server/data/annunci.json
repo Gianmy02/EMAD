@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "aziendaId": 1,
+    "aziendaNome": "TechCorp Solutions",
+    "titolo": "Flutter Mobile Developer (Junior/Mid)",
+    "descrizione": "Cerchiamo sviluppatore Flutter appassionato per sviluppo app multipiattaforma iOS/Android. Richiesta conoscenza dei widget Material, gestione dello stato (setState, ValueNotifier, Provider) e consumo API REST.",
+    "luogo": "Milano / Ibrido",
+    "tipoContratto": "Tempo indeterminato",
+    "tags": "Flutter, Dart, Provider, REST API",
+    "createdAt": "2026-11-05T09:00:00Z",
+    "numCandidature": 0
+  },
+  {
+    "id": 2,
+    "aziendaId": 1,
+    "aziendaNome": "TechCorp Solutions",
+    "titolo": "Backend Engineer (Dart / Shelf / REST)",
+    "descrizione": "Ricerchiamo figura backend per la progettazione e manutenzione di microservizi RESTful, archiviazione dati JSON/database e integrazione con client mobile.",
+    "luogo": "Roma / Full Remote",
+    "tipoContratto": "Tempo determinato",
+    "tags": "Dart, Shelf, REST, JSON",
+    "createdAt": "2026-11-10T14:30:00Z",
+    "numCandidature": 0
+  },
+  {
+    "id": 3,
+    "aziendaId": 2,
+    "aziendaNome": "prova",
+    "titolo": "flutter developer mobile",
+    "descrizione": "offerta da 35k Ral, junior",
+    "luogo": "Milano",
+    "tipoContratto": "Tempo indeterminato",
+    "tags": "flutter",
+    "createdAt": "2026-11-23T23:43:02Z",
+    "numCandidature": 0
+  }
+]
